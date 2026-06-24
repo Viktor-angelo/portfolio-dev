@@ -1,3 +1,7 @@
+#Preview
+
+![Preview do portfólio](https://raw.githubusercontent.com/Viktor-angelo/portfolio-dev/main/public/preview-portfolio.png)
+
 # Portfólio - Viktor Angelo
 
 Portfólio profissional desenvolvido para apresentar projetos reais, habilidades técnicas e soluções focadas em performance, responsividade e experiência do usuário.
