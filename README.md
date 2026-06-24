@@ -1,5 +1,5 @@
 #Preview
-![Preview do portfólio](https://raw.githubusercontent.com/Viktor-angelo/portfolio-dev/main/public/preview-portfolio.png)
+![Preview do portfólio](https://raw.githubusercontent.com/Viktor-angelo/portfolio-dev/main/public/preview-portfolio2.png)
 
 # Portfólio - Viktor Angelo
 
