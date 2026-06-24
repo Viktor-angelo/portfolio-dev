@@ -1,4 +1,4 @@
-#Preview
+##Preview
 
 ![Preview do portfólio](https://raw.githubusercontent.com/Viktor-angelo/portfolio-dev/main/public/preview-portfolio.png)
 
